@@ -1,0 +1,10 @@
+{
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "@tsconfig/node14": "^1.0.1",
+        "@types/node": "^15.6.0",
+        "handlebars": "^4.7.7"
+    },
+    "dependencies": {
+    }
+}
