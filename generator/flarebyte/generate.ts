@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, PathLike } from "fs";
 import { english } from "./english-data";
 import { compile } from "handlebars";
+import { helper } from 'helper-markdown'
 
 const readFileSyncAsString = (path: PathLike) => readFileSync(path, "utf8");
 
