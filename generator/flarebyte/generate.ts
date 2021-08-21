@@ -20,14 +20,12 @@ const generate = () => {
   const template = readFileSyncAsString("generator/flarebyte/main-page-template.hbs");
   const compiled = compile(template);
   const md = {
-    architecture: readMdFileAsHtml(`${mdPath}/architecture.md`),
+    servicesInfo: readMdFileAsHtml(`${mdPath}/services-info.md`),
     contact: readMdFileAsHtml(`${mdPath}/contact.md`),
-    project: readMdFileAsHtml(`${mdPath}/project.md`),
-    webdev: readMdFileAsHtml(`${mdPath}/webdev.md`),
   }
   const englishAndMd = { ...english, ...md}
   const html = compiled(englishAndMd);
-  writeFileSyncAsString('flarebyte_com/index2.html', html)
+  writeFileSyncAsString('flarebyte_com/index.html', html)
 };
 
 generate()

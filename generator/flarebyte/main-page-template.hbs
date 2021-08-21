@@ -1,7 +1,7 @@
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{lang}}" lang="{{lang}}">
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Language" content="en-us" />
+    <meta http-equiv="Content-Language" content="{{contentLanguage}}" />
 
     <title>
       {{title}}
@@ -78,30 +78,7 @@
               /></a>
           </p>
           <div id="content-secondary">
-            {{{webdev}}}
-            <h2>System architecture</h2>
-            <p>
-              <a
-                href="http://flairbyte.com/flarebyte/en/png/company/8/architecture.v2-594x594.png"
-              ><img
-                  src="http://flairbyte.com/flarebyte/en/png/company/8/architecture.v2-105x105.png"
-                  alt="architecture mda diagram"
-                /></a>
-            </p>
-
-            {{{architecture}}}
-
-            <h2>Projects</h2>
-            <p>
-              <a
-                href="http://flairbyte.com/flarebyte/en/png/company/8/projects-594x594.png"
-              ><img
-                  src="http://flairbyte.com/flarebyte/en/png/company/8/projects-105x105.png"
-                  alt="software development lifecycle diagram"
-                /></a>
-            </p>
-
-            {{{project}}}
+            {{{servicesInfo}}}
           </div>
           <!-- END #content-secondary -->
         </div>
@@ -114,7 +91,7 @@
       <!-- END #content -->
       <div id="footer">
         <p>
-          Copyright (c) 2008-2021 Flarebyte.com Limited. All rights reserved.
+          {{copyright}}. All rights reserved.
         </p>
       </div>
       <!-- END #footer -->

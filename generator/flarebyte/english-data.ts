@@ -2,6 +2,7 @@ export const english = {
   title: "Flarebyte.com Ltd | Scalable web applications within deadlines",
   copyright: "Copyright (c) 2008-2021 Flarebyte.com Limited",
   contentLanguage: "en-us",
+  lang: "en",
   keywords:
     "software development, web application, Java, Python, London, Java Enterprise,Java EE, Django, mobile devices, scalable",
   description:
