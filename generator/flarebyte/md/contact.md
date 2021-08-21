@@ -1,5 +1,5 @@
-Contact us
-----------
+## Contact us
+
 
 ### United Kingdom
 
@@ -15,7 +15,7 @@ Office: + 44 (0)20 8528 1006
 
 Fax: + 44 (0)20 8528 1001
 
-Email: uk <at> flarebyte.com
+Email: uk at flarebyte.com
 
 ### France
 
@@ -23,6 +23,6 @@ Tel: + 44 (0)20 8528 1006
 
 Fax: + 44 (0)20 8528 1001
 
-Email: fr <at> flarebyte.com
+Email: fr at flarebyte.com
 
 _Flarebyte.com Limited is registered in England & Wales with No. 06526932._

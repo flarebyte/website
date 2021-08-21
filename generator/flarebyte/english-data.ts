@@ -15,9 +15,5 @@ export const english = {
     "Software development to customer specifications",
     "System architecture consulting",
     "Project management & mentoring.",
-  ],
-  webDev: 'webdev.md',
-  architecture: 'architecture.md',
-  project: 'project.md',
-  contact: 'contact.md',
+  ]
 };
