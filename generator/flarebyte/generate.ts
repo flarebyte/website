@@ -25,6 +25,7 @@ const generate = (language: "english" | "french", metadata: object) => {
   const md = {
     servicesInfo: readMdFileAsHtml(`${mdPath}/${language}/services-info.md`),
     contact: readMdFileAsHtml(`${mdPath}/${language}/contact.md`),
+    isEnglish: language === 'english'
   };
   const metaAndMd = { ...metadata, ...md };
   const html = compiled(metaAndMd);

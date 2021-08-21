@@ -45,10 +45,14 @@
         </h1>
         <ul id="nav-global">
           <li id="nav-homepage-en">
-            <a href="http://www.flarebyte.com"><u>ENGLISH</u></a>
+            <a href="http://www.flarebyte.com">{{#if isEnglish}}<u
+                >ENGLISH</u>{{/if}}{{#unless isEnglish}}ENGLISH{{/unless}}</a>
           </li>
           <li id="nav-homepage-fr">
-            <a href="http://www.flarebyte.com/fr">FRANCAIS</a>
+            <a href="http://www.flarebyte.com/fr">{{#if
+                isEnglish
+              }}FRANCAIS{{/if}}{{#unless isEnglish}}<u
+                >FRANCAIS</u>{{/unless}}</a>
           </li>
         </ul>
       </div>
