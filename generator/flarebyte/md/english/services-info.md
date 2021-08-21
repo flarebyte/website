@@ -1,33 +1,29 @@
-At the moment, we are proposing services only around the Java Enterprise stack and the Django Python framework but this should evolve in a wider offer in the future.
+At the moment, we are proposing services only around serverless technologies but this should evolve in a wider offer in the future.
 
 At some point, we consider that focusing on all the different aspects of one technology is the key to success. We try to pay a lot of attention on details, including design, scalability and security.
 
-## Web software development
+## Full Stack Development
 
-### Java Enterprise
+### Typescript & Javascript
 
--   JSF&Ajax (Web 2), JSP (Web Apps), Java for mobile
--   EJB2, EJB3, JMS, Hibernate, Spring
--   Java Swing (Desktop Apps)
+-   Node.js
+-   React
+-   Elm
 
-### Python
+### Scala & Java
 
--   Django web framework
+-   Backend servers
 
-### Web and application servers
+### Cloud computing
 
--   JBoss, GlassFish, BEA Weblogic, Websphere
--   Apache, Tomcat
+-   AWS cloud Computing
+-   Serverless
 
 ### Databases
 
--   Oracle, MySQL , Microsoft SQL Server, PostgreSQL
+-   Relational databases, NoSQL databases, Graph databases, Time Series Databases
 
-### XML
-
--   Serialization, configuration, transformation, DOM, SAX
-
-### Parsing
+### Domain-specific languages
 
 -   Lexical analysis, regular expressions
 
@@ -37,23 +33,23 @@ At some point, we consider that focusing on all the different aspects of one tec
 
 ### Project management
 
-*   Work breakdown, planning & budgeting.
-*   Identifying, managing & controlling changes.
-*   Tracking and reporting progress.
-*   Assessing and controlling risks.
-*   Monitoring time, cost, scope constraints.
-*   Forecasting future trends in the project
+-   Work breakdown, planning & budgeting.
+-   Identifying, managing & controlling changes.
+-   Tracking and reporting progress.
+-   Assessing and controlling risks.
+-   Monitoring time, cost, scope constraints.
+-   Forecasting future trends in the project
 
 ### Team
 
-*   Mentoring the team.
-*   Organizing the work.
-*   Issue solving.
+-   Mentoring the team.
+-   Organizing the work.
+-   Issue solving.
 
 ### Development process
 
-*   Optimization of the development process.
-*   Quality Management.
+-   Optimization of the development process.
+-   Quality Management.
 
 ## System architecture
 

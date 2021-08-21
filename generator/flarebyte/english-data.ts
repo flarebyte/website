@@ -4,15 +4,14 @@ export const english = {
   contentLanguage: "en-us",
   lang: "en",
   keywords:
-    "software development, web application, Java, Python, London, Java Enterprise,Java EE, Django, mobile devices, scalable",
+    "Software development, Web application, Scala, Java, Typescript, Elm, Javascript, Python, London, scalable",
   description:
-    "Flarebyte.com Ltd develops web applications based on Java Enterprise or the Django Python framework",
+    "Flarebyte.com Ltd develops cloud-based web applications",
   billboard: "Development of scalable web applications within deadlines",
   about: "About Flarebyte.com Limited",
   deck: "Flarebyte.com Ltd is a start-up specialized in the development of web applications",
   services: [
     "Interactive web-delivered content",
-    "Web sites for mobile devices",
     "Software development to customer specifications",
     "System architecture consulting",
     "Project management & mentoring.",
