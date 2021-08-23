@@ -2,33 +2,28 @@ A l'heure actuelle, nous proposons essentiellement des services autour de Java E
 
 Nous nous efforçons d'étudier chaque detail de la réalisation et tout particulièrement la conception, la scalabilité et la sécurité.
 
-Développement logiciel
-----------------------
+## Développement logiciel
 
-### Java Enterprise
+### Typescript & Javascript
 
-*   JSF&Ajax (Web 2), JSP (Web Apps), Java pour mobiles
-*   EJB2, EJB3, JMS, Hibernate, Spring
-*   Java Swing (Desktop Apps)
+-   Node.js
+-   React
+-   Elm
 
-### Python
+### Scala & Java
 
-*   Django
+-   Backend servers
 
-### Serveurs d'applications
+### Cloud computing
 
-*   JBoss, GlassFish, BEA Weblogic, Websphere
-*   Apache, Tomcat
+-   AWS cloud Computing
+-   Serverless
 
-### Base de données
+### Databases
 
-*   Oracle, MySQL , Microsoft SQL Server, PostgreSQL
+-   Relational databases, NoSQL databases, Graph databases, Time Series Databases
 
-### XML
-
-*   Sérialisation, configuration, transformation, DOM, SAX
-
-### Parsing
+### Domain-specific languages
 
 *   Analyses lexicales, expressions régulières
 
