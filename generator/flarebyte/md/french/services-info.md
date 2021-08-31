@@ -30,7 +30,7 @@ Nous nous efforçons d'étudier chaque detail de la réalisation et tout particu
 Architecture logicielle
 -----------------------
 
-[![architecture mda diagram](http://flairbyte.com/flarebyte/en/png/company/8/architecture.v2-105x105.png)](http://flairbyte.com/flarebyte/en/png/company/8/architecture.v2-594x594.png)
+[![architecture mda diagram](https://media.flairbyte.com/fb2008/en/png/company/8/architecture.v2-105x105.png)](https://media.flairbyte.com/fb2008/en/png/company/8/architecture.v2-594x594.png)
 
 ### Applications:
 
@@ -48,7 +48,7 @@ Nous pouvons concevoir des applications orientées objet qui faciliteront le tra
 Projets
 -------
 
-[![software development lifecycle diagram](http://flairbyte.com/flarebyte/en/png/company/8/projects-105x105.png)](http://flairbyte.com/flarebyte/en/png/company/8/projects-594x594.png)
+[![software development lifecycle diagram](https://media.flairbyte.com/fb2008/en/png/company/8/projects-105x105.png)](https://media.flairbyte.com/fb2008/en/png/company/8/projects-594x594.png)
 
 ### Gestion de projets
 
