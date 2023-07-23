@@ -1,4 +1,4 @@
 gen:
-	ts-node generator/flarebyte/generate.ts
-	prettier --write flarebyte_com/index.html
-	prettier --write flarebyte_com/fr/index.html
+	npx ts-node generator/flarebyte/generate.ts
+	npx prettier --write flarebyte_com/index.html
+	npx prettier --write flarebyte_com/fr/index.html
