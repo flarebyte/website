@@ -1,12 +1,11 @@
 {
     "license": "UNLICENSED",
     "devDependencies": {
-        "@tsconfig/node14": "^1.0.1",
-        "@types/node": "^15.6.0",
+        "@tsconfig/node18": "^18.2.0",
+        "@types/node": "^20.4.4",
+        "@types/showdown": "^2.0.1",
         "handlebars": "^4.7.7",
-        "@types/showdown": "^1.9.4",
-        "showdown": "^1.9.1"
+        "showdown": "^2.1.0"
     },
-    "dependencies": {
-    }
+    "dependencies": {}
 }

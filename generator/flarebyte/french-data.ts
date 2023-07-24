@@ -9,7 +9,7 @@ export const french = {
     "Flarebyte.com Ltd réalise des applications web dans le cloud",
   billboard: "Développement d'applications web performantes en temps et en heure",
   about: "A propos de Flarebyte.com Ltd",
-  deck: "FFlarebyte.com Ltd est une start-up specialisée dans le développement d'applications web",
+  deck: "Flarebyte.com Ltd est une start-up specialisée dans le développement d'applications web",
   services: [
     "Contenu interactif",
     "Développement logiciel selon un cahier des charges client",
